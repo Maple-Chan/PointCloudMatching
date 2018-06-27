@@ -1,8 +1,9 @@
 # PointCloudMatching
-# ¸Ã³ÌĞòĞèÒª×°µÄÈı·½¿â
-#		PCL¡¢OpenCV2.4£¨NuGetÖĞµÄ¼´¿É£©¡¢NupenGL¡¢Eigen
-# ÔËĞĞ»·¾³
+#  è¿™ä¸ªç‚¹äº‘åŒ¹é…ç¨‹åºä¸»è¦ç”¨äº†ICPç®—æ³•ï¼Œé€šè¿‡KDTreeè¿›è¡Œç‚¹äº‘æ•°æ®çš„å­˜å‚¨ï¼ŒåŠ å¿«éå†
+# è¯¥ç¨‹åºéœ€è¦è£…çš„ä¸‰æ–¹åº“
+#		PCLã€OpenCV2.4ï¼ˆNuGetä¸­çš„å³å¯ï¼‰ã€NupenGLã€Eigen
+# è¿è¡Œç¯å¢ƒ
 #		X86 Release VS2017
 #
-#	Developers£ºMaple-Chan £¨³ÂÓê·ã£©
-#	Uploaddate£º2018/6/27
+#	Developersï¼šMaple-Chan ï¼ˆé™ˆé›¨æ«ï¼‰
+#	Uploaddateï¼š2018/6/27
